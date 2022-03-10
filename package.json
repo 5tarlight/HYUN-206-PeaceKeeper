@@ -1,0 +1,11 @@
+{
+  "name": "206pk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:5tarlight/HYUN-206-PeaceKeeper.git",
+  "author": "YEAHx4 <developerstarlight@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

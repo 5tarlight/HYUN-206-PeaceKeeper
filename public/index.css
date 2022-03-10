@@ -1,0 +1,19 @@
+.t {
+  display: flex;
+}
+
+span {
+  margin-right: 1rem;
+}
+
+.sub-input {
+  width: 100px;
+}
+
+.link-input {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5rem;
+}
